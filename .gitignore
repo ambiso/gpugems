@@ -1,0 +1,6 @@
+/cache
+/htmls
+/pdfs
+/target
+*.pdf
+meta.txt

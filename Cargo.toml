@@ -1,0 +1,10 @@
+[package]
+name = "gpugems"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+anyhow = { version = "1.0.89", features = ["backtrace"] }
+reqwest = "0.12.8"
+soup = "0.5.1"
+tokio = { version = "1.40.0", features = ["full"] }
